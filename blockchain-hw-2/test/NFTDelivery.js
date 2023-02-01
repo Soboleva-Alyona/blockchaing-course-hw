@@ -1,4 +1,0 @@
-
-describe("NFTDelivery contract", function () {
-  
-});

@@ -1,7 +1,7 @@
 # HW №3 К занятию “Blockchain software ecosystem”
 Usage:
 
-в [файле](https://github.com/Soboleva-Alyona/blockchain-hw3/blob/main/data/api_key.json) указать свой alchemy api_key
+в [файле](https://github.com/Soboleva-Alyona/blockchaing-course-hw/blob/main/blockchain-hw3/data/api_key.json) указать свой alchemy api_key
 
 ```
   npm install web3
